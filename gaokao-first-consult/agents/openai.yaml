@@ -1,0 +1,4 @@
+interface:
+  display_name: "高考初访准备与咨询支持"
+  short_description: "整理家长学生资料，生成含理论依据、顺序提问表及政策附件的初访方案"
+  default_prompt: "使用 $gaokao-first-consult，根据家长与学生信息表，生成首次咨询准备方案。"

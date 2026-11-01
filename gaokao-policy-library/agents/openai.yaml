@@ -1,0 +1,4 @@
+interface:
+  display_name: "高考政策资料维护"
+  short_description: "按省份和招生年份核验政策，维护共享资料并生成长篇手册与节点表"
+  default_prompt: "使用 $gaokao-policy-library，核验指定省份和招生年份的政策，生成政策手册与Excel节点表。"
